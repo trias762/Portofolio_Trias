@@ -36,7 +36,7 @@ Visualization Dashboard with Looker Data Studio
     <li>Handling Missing Value</li>
     <li>Handling Duplicate Data</li>
     <li>Visualization Data</li>
-    <li>Classicication</li>
+    <li>Classification</li>
   </ul>
   <b>Example :</b>
   <ul>
