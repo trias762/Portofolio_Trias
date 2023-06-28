@@ -26,7 +26,7 @@ Visualization Dashboard with Tablue
       </ul>
 Visualization Dashboard with Looker Data Studio
       <ul>
-        <li><a href='https://github.com/trias762/Portofolio_Trias/blob/main/Jaminan%20dan%20Fasilitas%20Kesehatan%20di%20Provinsi%20Jawa%20Barat.pdf'> Jaminan Dan     Fasilitas Kesehatan Di Jawa Barat</a></li>
+        <li><a href='https://lookerstudio.google.com/s/vmQDhXmuGew'> Jaminan Dan     Fasilitas Kesehatan Di Jawa Barat</a></li>
       </ul>
 </p>
 
