@@ -26,7 +26,7 @@ Visualization Dashboard with Tablue
       </ul>
 Visualization Dashboard with Looker Data Studio
       <ul>
-        <li><a href='https://lookerstudio.google.com/s/vmQDhXmuGew'> Jaminan Dan     Fasilitas Kesehatan Di Jawa Barat</a></li>
+        <li><a href='https://lookerstudio.google.com/s/vmQDhXmuGew'> Kimia Farma Sales Report</a></li>
       </ul>
 </p>
 
