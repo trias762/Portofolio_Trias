@@ -28,6 +28,9 @@ Visualization Dashboard with Looker Data Studio
       <ul>
         <li><a href='https://lookerstudio.google.com/s/vmQDhXmuGew'> Kimia Farma Sales Report</a></li>
       </ul>
+      <ul>
+        <li><a href='https://public.tableau.com/app/profile/trias.handayani/viz/Covid_19Indonesia/Dashboard1'target="_blank"> Covid-19 Indonesia</a></li>
+      </ul>
 </p>
 
 ## Python Skill Sets:
